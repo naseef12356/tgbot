@@ -2,59 +2,55 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
-
-See <i>/help</i> for commands and more details.</b>
+DON'T WASTE TIME GO TO @CFCHART <i>/help</i> for more details.</b>
 """
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)</i>
+<i>JOIN @CFCHART FOR GET MOVIES:)</i>
 
 
-<b>Basic Commands;</b>
-
-/start - Check if I'm alive!
-/help - Command help
-/about - Something about me!
+<b>HOW TO USE ME</b>
 
 
-<b>Filter Commands;</b>
 
-<code>/add name reply</code>  -  Add filter for name
+* GO TO @CFCHART AND TYPE YOUR MOVIE NAME.
 
-<code>/del name</code>  -  Delete filter
-
-<code>/delall</code>  -  Delete entire filters (Group Owner Only!)
-
-<code>/viewfilters</code>  -  List all filters in chat
+* JOIN FOLLOWING CHANNEL TO GET ACCESS TO YOUJOIN CHANNEL!
 
 
-<b>Connection Commands;</b>
+I CAN EXTRACT DATA FROM FOLLOWING CHANNEL
+OLD MOVIES 
+https://t.me/joinchat/7hP8iQnONVdlY2M9
 
-<code>/connect groupid</code>  -  Connect your group to my PM. You can also simply use,
-<code>/connect</code> in groups.
+TELUGU MOVIES 
+https://t.me/joinchat/U4Gw_XLpQ_SLO6i9
 
-<code>/connections</code>  -  Manage your connections.
+ALL MOVIES
+https://t.me/joinchat/R2NzDOyi85wb4EEp
 
+MALAYALAM MOVIES
+https://t.me/joinchat/QSPu1QHGNIQ2MmQ9
 
-<b>Extras;</b>
+SERIES AND FILMOGRAPHY 
+https://t.me/joinchat/R3ocwmbOOA3ASKYJ
 
-/status  -  Shows current status of your bot (Auth User Only)
+DVD UPDATES 
+https://t.me/joinchat/VUMDWO9PFmjruguU
 
-/id  -  Shows ID information
+MALAYALAM SUBTITLES 
+https://t.me/joinchat/VEPyuGL5nV4ZV10G
 
-<code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
+COPYRIGHTED MOVIES
+https://t.me/joinchat/UfGEgtRQzZrXUi8Z
 
-
-<b>© @TroJanzHEX</b>
+<b>© @CFCHART</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """<b>My Name : MIA KHALIFA</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @CFCHART    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
