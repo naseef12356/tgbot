@@ -50,10 +50,10 @@ https://t.me/joinchat/UfGEgtRQzZrXUi8Z
 
     ABOUT_MSG = """<b>My Name : MIA KHALIFA</b>
 
-⭕️<b>Creater :</b> @CFCHART    
+<b>Creater :</b> @CFCHART    
 
-⭕️<b>Language :</b> <code>Python3</code>
+<b>Language :</b> <code>Python3</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
 """
